@@ -8,6 +8,7 @@ int main(){
     cout << "Enter an integer: ";
     cin >> integer[i];
     i++;
+    
     }
     int j=1;
     while
@@ -17,8 +18,7 @@ int main(){
     } else {
     cout << "#Odd numbers = ";
     cin >> interger [i];
-    dsf
+
     }
     return 0;
 }
-//dfsffdgdsgsdgfd
