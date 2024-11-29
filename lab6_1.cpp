@@ -17,6 +17,8 @@ int main(){
     } else {
     cout << "#Odd numbers = ";
     cin >> interger [i];
+    dsf
     }
     return 0;
 }
+//dfsffdgdsgsdgfd
