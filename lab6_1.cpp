@@ -2,17 +2,22 @@
 using namespace std;
 
 int main(){
-    int integer[];
+    int i=1;
+    int integer[100];
     while (integer !=0){
     cout << "Enter an integer: ";
     cin >> integer[i];
-    i++
+    i++;
     }
-    if
+    int j=1;
+    while
+    if {integer[i]%2=0
     cout << "#Even numbers = ";
-    cin >>
+    cin >> interger [i];
+    } else {
     cout << "#Odd numbers = ";
-    cin >>
+    cin >> interger [i];
+    }
     return 0;
 }
 git 
