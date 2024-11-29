@@ -2,9 +2,13 @@
 using namespace std;
 
 int main(){
-    int integer;
+    int integer[];
+    while (integer !=0){
     cout << "Enter an integer: ";
-    cin >> integer;
+    cin >> integer[i];
+    i++
+    }
+    if
     cout << "#Even numbers = ";
     cin >>
     cout << "#Odd numbers = ";
