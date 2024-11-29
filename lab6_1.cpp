@@ -8,16 +8,15 @@ int main(){
     cout << "Enter an integer: ";
     cin >> integer[i];
     i++;
-    
     }
     int j=1;
-    while
-    if {integer[i]%2=0
+    if (integer[j]%2==0){
     cout << "#Even numbers = ";
-    cin >> interger [i];
-    } else {
+    cin >> integer [j];
+    } 
+    else {
     cout << "#Odd numbers = ";
-    cin >> interger [i];
+    cin >> integer [j];
 
     }
     return 0;
