@@ -15,7 +15,7 @@ int main() {
 
         if (num % 2 == 0) {
             evenCount++;
-        } else {
+        }else {
             oddCount++;
         }
     }
